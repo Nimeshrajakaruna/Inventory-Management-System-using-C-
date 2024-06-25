@@ -1,2 +1,2 @@
-# Inventory-Management-System-using-C-
-Inventory Management System Using C#
+# Inventory Management System using C#
+Inventory Management System Using C# and MySQL database.
